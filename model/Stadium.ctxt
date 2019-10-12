@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Stadium
+comment1.params=
+comment1.target=Stadium()
+comment2.params=
+comment2.target=java.util.LinkedList\ seats()
+comment3.params=
+comment3.target=int\ groups()
+comment4.params=
+comment4.target=double\ income()
+comment5.params=
+comment5.target=double\ rent()
+comment6.params=rent
+comment6.target=void\ setRent(double)
+comment7.params=prices
+comment7.target=void\ setPrices(double[])
+numComments=8

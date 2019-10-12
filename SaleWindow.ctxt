@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SaleWindow
+comment1.params=stadium
+comment1.target=SaleWindow(model.Stadium)
+comment2.params=rows
+comment2.target=void\ setup(int)
+comment3.params=stadium
+comment3.target=void\ build(model.Stadium)
+numComments=4

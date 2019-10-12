@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Concert
+comment1.params=band\ stadium
+comment1.target=Concert(Band,\ Stadium)
+comment2.params=
+comment2.target=Band\ band()
+comment3.params=
+comment3.target=Stadium\ stadium()
+comment4.params=
+comment4.target=java.lang.String\ income()
+comment5.params=
+comment5.target=java.lang.String\ cost()
+comment6.params=
+comment6.target=java.lang.String\ profit()
+numComments=7

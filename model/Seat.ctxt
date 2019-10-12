@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Seat
+comment1.params=name\ forSale
+comment1.target=Seat(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment3.params=price
+comment3.target=void\ setPrice(double)
+comment4.params=
+comment4.target=int\ sold()
+comment5.params=number
+comment5.target=void\ sell(int)
+comment6.params=
+comment6.target=int\ left()
+comment7.params=
+comment7.target=double\ income()
+comment8.params=
+comment8.target=void\ show()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
